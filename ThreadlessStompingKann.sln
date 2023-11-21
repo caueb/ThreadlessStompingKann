@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadlessStompingKann", "ThreadlessStompingKann\ThreadlessStompingKann.vcxproj", "{06181370-48B9-4AE2-923F-904CA9791A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Debug|x64.ActiveCfg = Debug|x64
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Debug|x64.Build.0 = Debug|x64
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Debug|x86.ActiveCfg = Debug|Win32
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Debug|x86.Build.0 = Debug|Win32
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Release|x64.ActiveCfg = Release|x64
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Release|x64.Build.0 = Release|x64
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Release|x86.ActiveCfg = Release|Win32
+		{06181370-48B9-4AE2-923F-904CA9791A47}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43969144-7F5D-473F-BF6A-FCCC38BD873C}
+	EndGlobalSection
+EndGlobal
