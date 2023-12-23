@@ -4,7 +4,7 @@ Combining 3 techniques (Threadless Injection + DLL Stomping + Caro-Kann) togethe
 A combination of the techniques Threadless Injection + DLL Stomping + Caro-Kann to evade Microsoft Defender for Endpoint using WinAPI.
 Dummy metadata was added to the program to help bypass the execution of file with different original name.
 
-This is the code used for my [blog post here](https://caueb.com/purple-team-lab/threadlessstompingkann/).
+This is the code used for my [blog post here](https://caueb.com/attackdefense/threadlessstompingkann/).
 
 # Usage
 Use the python script `encrypt.py` to XOR your payload and save it to a new file.
